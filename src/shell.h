@@ -6,4 +6,4 @@ int sh_exit();
 int sh_echo(char **args);
 int sh_clear();
 int sh_color();
-int sh_grep(char **args);
+int sh_cat(char **args);
